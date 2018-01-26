@@ -49,8 +49,8 @@ console.log(user['firstName']); // log 'Lucille'
 console.log(user['has-feet']); // need to use square bracket for special characters
 
 // two vars, each containing a #
-var num1 = 100;
-var num2 = 50;
+var num1 = 150;
+var num2 = 100;
 console.log('the result is:' + num1 - num2); // outputs 50 to console
 console.log('my num1 is' + num1 + 'that is my number');
 
